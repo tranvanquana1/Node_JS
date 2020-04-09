@@ -1,0 +1,22 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "Project learn Nodejs",
+  "main": "json-demo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tranvanquana1/Node_JS.git"
+  },
+  "author": "tran van quan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tranvanquana1/Node_JS/issues"
+  },
+  "homepage": "https://github.com/tranvanquana1/Node_JS#readme",
+  "dependencies": {
+    "node-persist": "^3.0.5"
+  }
+}
